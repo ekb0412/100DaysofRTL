@@ -26,8 +26,8 @@ Day: 20-> Universal Logic Gates using Mux<br> <br>
 Day: 21-> Special Logic Gates using Mux<br><br>
 Day: 22-> [4:1] Mux using [2:1]<br><br>
 Day: 23-> [8:1] Mux using [4:1] and [2:1]<br><br>
-Day: 24-> BRAM Mux<br><br>
-Day: 25-> DeMultiplexer [1:2]<br><br>
+Day: 24-> DeMultiplexer [1:2]<br><br>
+Day: 25-> DeMultiplexer[1:8] using [1:2]<br><br>
 Day: 26-> Basic Logic Gates using Dmux<br><br> 
 Day: 27-> Universal Logic Gates using Dmux<br> <br>
 Day: 28-> Special Logic Gates using Dmux <br><br>
