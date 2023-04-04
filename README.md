@@ -12,7 +12,7 @@ Day: 6-> Even Parity Generator and Checker<br><br>
 Day: 7-> Half Adder & Full Adder <br><br>
 Day: 8-> Half Subtractor & Full Subtractor<br><br>
 Day: 9->  Half Adder, Full Adder, Half Subtractor, Full Subtractor using Nand Gate<br><br>
-Day: 10-> N bit Ripple Adder<br><br>
+Day: 10-> 4 bit Parallel Adder<br><br>
 Day: 11-> Adder cum Subtractor <br><br>
 Day: 12-> Carry Look Ahead Generator<br><br>
 Day: 13-> Carry Save Adder<br><br>
