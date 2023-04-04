@@ -15,7 +15,7 @@ Day: 9->  Half Adder, Full Adder, Half Subtractor, Full Subtractor using Nand Ga
 Day: 10-> 4 bit Parallel Adder<br><br>
 Day: 11-> Adder cum Subtractor <br><br>
 Day: 12-> Carry Look Ahead Generator<br><br>
-Day: 13-> Carry Save Adder<br><br>
+Day: 13-> Carry Select Adder<br><br>
 Day: 14-> Carry Skip Adder<br><br>
 Day: 15-> N bit Multiplier<br><br>
 Day: 16-> N bit Divider<br><br>
