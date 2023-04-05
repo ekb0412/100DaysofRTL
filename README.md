@@ -12,10 +12,10 @@ Day: 6-> Even Parity Generator and Checker<br><br>
 Day: 7-> Half Adder & Full Adder <br><br>
 Day: 8-> Half Subtractor & Full Subtractor<br><br>
 Day: 9->  Half Adder, Full Adder, Half Subtractor, Full Subtractor using Nand Gate<br><br>
-Day: 10-> N bit Ripple Adder<br><br>
+Day: 10-> 4 bit Parallel Adder<br><br>
 Day: 11-> Adder cum Subtractor <br><br>
 Day: 12-> Carry Look Ahead Generator<br><br>
-Day: 13-> Carry Save Adder<br><br>
+Day: 13-> Carry Select Adder<br><br>
 Day: 14-> Carry Skip Adder<br><br>
 Day: 15-> N bit Multiplier<br><br>
 Day: 16-> N bit Divider<br><br>
@@ -26,8 +26,8 @@ Day: 20-> Universal Logic Gates using Mux<br> <br>
 Day: 21-> Special Logic Gates using Mux<br><br>
 Day: 22-> [4:1] Mux using [2:1]<br><br>
 Day: 23-> [8:1] Mux using [4:1] and [2:1]<br><br>
-Day: 24-> BRAM Mux<br><br>
-Day: 25-> DeMultiplexer [1:2]<br><br>
+Day: 24-> DeMultiplexer [1:2]<br><br>
+Day: 25-> DeMultiplexer[1:8] using [1:2]<br><br>
 Day: 26-> Basic Logic Gates using Dmux<br><br> 
 Day: 27-> Universal Logic Gates using Dmux<br> <br>
 Day: 28-> Special Logic Gates using Dmux <br><br>
