@@ -17,15 +17,15 @@ Day: 11-> Adder cum Subtractor <br><br>
 Day: 12-> Carry Look Ahead Generator<br><br>
 Day: 13-> Carry Select Adder<br><br>
 Day: 14-> Carry Skip Adder<br><br>
-Day: 15-> N bit Multiplier<br><br>
-Day: 16-> N bit Divider<br><br>
+Day: 15-> 4 bit Multiplier<br><br>
+Day: 16-> 4 bit Divider<br><br>
 Day: 17-> N bit Comparator<br><br>
 Day: 18-> Multiplexer [2:1] <br><br>
-Day: 19-> Basic Logic Gates using Mux<br><br> 
-Day: 20-> Universal Logic Gates using Mux<br> <br>
-Day: 21-> Special Logic Gates using Mux<br><br>
-Day: 22-> [4:1] Mux using [2:1]<br><br>
-Day: 23-> [8:1] Mux using [4:1] and [2:1]<br><br>
+Day: 19-> [4:1] Mux using [2:1]<br><br> 
+Day: 20-> [8:1] Mux using [4:1] and [2:1]<br> <br>
+Day: 21-> Basic Logic Gates using Mux<br><br>
+Day: 22-> Universal Logic Gates using Mux<br><br>
+Day: 23-> Special Logic Gates using Mux<br><br>
 Day: 24-> DeMultiplexer [1:2]<br><br>
 Day: 25-> DeMultiplexer[1:8] using [1:2]<br><br>
 Day: 26-> Basic Logic Gates using Dmux<br><br> 
