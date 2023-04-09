@@ -31,9 +31,9 @@ Day: 25-> DeMultiplexer[1:8] using [1:2]<br><br>
 Day: 26-> Basic Logic Gates using Dmux<br><br> 
 Day: 27-> Universal Logic Gates using Dmux<br> <br>
 Day: 28-> Special Logic Gates using Dmux <br><br>
-Day: 29-> Encoder [2^N : N]<br><br>
+Day: 29-> Encoder [8:3]<br><br>
 Day: 30-> Priority Encoder<br><br>
-Day: 31-> Decoder [N : 2^N] <br><br>
+Day: 31-> Decoder [3:8] <br><br>
 Day: 32-> Basic Logic Gates using Decoder<br><br> 
 Day: 33-> Universal Logic Gates using Decoder<br> <br>
 Day: 34-> Special Logic Gates using Decoder <br><br>
