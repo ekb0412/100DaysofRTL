@@ -29,5 +29,5 @@ assign  c[0] = g0 | (p0 & cin),
         c[2] = g2 | (p2 & g1) | (p2 & p1 & g0) | (p2 & p1 & p0 & cin),
         c[3] = g3 | (p3 & g2) | (p3 & p2 & g1) | (p3 & p2 & p1 & g0) |(p3 & p2 & p1 & p0 & cin);
         
-assign carry = c3;
+    assign carry = c[3];
 endmodule
