@@ -39,12 +39,12 @@ Day: 33-> Universal Logic Gates using Decoder<br> <br>
 Day: 34-> Special Logic Gates using Decoder <br><br>
 <hr>
 Day: 35-> N bit number Square [N -> N^2] <br><br>
-Day: 36-> Input Majority Circuit [3]<br><br>
+Day: 36-> Input Majority Circuit [7 input]<br><br>
 Day: 37-> Binary to Gray code Converter<br><br>
 Day: 38-> Gray code to Binary Converter<br><br>
-Day: 39-> Binary to Excess-3 code Converter<br><br>
+Day: 39-> Binary to 2's Complement Converter<br><br>
 Day: 40-> Binary to BCD Converter<br><br>
-Day: 41-> BCD 2 Excess-3 code Converter<br><br>
+Day: 41-> BCD to Excess-3 code Converter<br><br>
 Day: 42-> BCD to 7-Segment Converter<br><br>
 Day: 43-> Booth Algorithm <br><br>
 Day: 44-> Vedic Multiplier [2×2]<br><br>
