@@ -22,10 +22,10 @@ Day: 16-> 4 bit Divider<br><br>
 Day: 17-> N bit Comparator<br><br>
 Day: 18-> Multiplexer [2:1] <br><br>
 Day: 19-> [4:1] Mux using [2:1]<br><br> 
-Day: 20-> [8:1] Mux using [4:1] and [2:1]<br> <br>
-Day: 21-> Basic Logic Gates using Mux<br><br>
-Day: 22-> Universal Logic Gates using Mux<br><br>
-Day: 23-> Special Logic Gates using Mux<br><br>
+Day: 20-> Basic Logic Gates using Mux<br> <br>
+Day: 21-> Universal Logic Gates using Mux<br><br>
+Day: 22-> Special Logic Gates using Mux<br><br>
+Day: 23-> Full Adder using Mux<br><br>
 Day: 24-> DeMultiplexer [1:2]<br><br>
 Day: 25-> DeMultiplexer[1:8] using [1:2]<br><br>
 Day: 26-> Basic Logic Gates using Dmux<br><br> 
