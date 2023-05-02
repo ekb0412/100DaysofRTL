@@ -16,7 +16,7 @@ module decoder_3_8(
                 3'b101 : out[5] = 1'b1;
                 3'b110 : out[6] = 1'b1;
                 3'b111 : out[7] = 1'b1;
-		    	 default: out = 8'd0;
+		default: out = 0;
             endcase
         end
 endmodule
