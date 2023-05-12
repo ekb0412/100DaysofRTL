@@ -1,7 +1,8 @@
 # 100DaysofRTL
 <hr>
 <h3>Hi👋, I'm Ekansh Bansal, and I'm currently immersing myself in the world of VLSI🎯, focusing on RTL design using Verilog HDL. My goal is to learn RTL within 100 days, and I rely on Xilinx Vivado 2022.2 Design Suite for synthesizing and simulating RTL codes. This powerful tool allows me to efficiently develop complex digital circuits, including FPGAs and ASICs. I'm excited about my journey and the potential it holds for equipping me with valuable skills that I can apply to real-world problems in the future.</h3>
-<hr><h4>
+<h4>Here is the list of Day wise RTL Codes:-
+<hr>
 Day: 1-> Behavioral Modeling Style <br><br>
 Day: 2-> Structral Modeling Style<br><br>
 Day: 3-> Gate Level Modeling Style<br><br>
@@ -51,63 +52,63 @@ Day: 44-> Vedic Multiplier [2×2]<br><br>
 Day: 45-> Vedic Multiplier [4×4] using [2×2]<br>
 <hr >
 Day: 46-> Asynchronous and Synchronous Reset<br><br>
-Day: 47-> SR Latch & FF<br><br>
-Day: 48-> SR FF using UDP(user define primitives)<br><br>
-Day: 49-> JK Latch & FF<br><br>
-Day: 50-> JK FF using UDP(user define primitives) <br><br>
-Day: 51-> D FF<br><br>
-Day: 52-> D FF using UDP(user define primitives)<br><br>
-Day: 53-> Dual Edge Triggered FF<br>
+Day: 47-> SR Latch & Flip Flop<br><br>
+Day: 48-> JK Latch & Flip Flop<br><br>
+Day: 49-> D Latch & Flip Flop<br><br>
+Day: 50-> T Latch & Flip Flop<br><br>
+Day: 51-> SR flip flop using JK, D, T flip flops<br><br>
+Day: 52-> JK flip flop using SR, D, T flip flops<br><br>
+Day: 53-> D flip flop using SR, JK, T flip flops<br><br>
+Day: 54-> T flip flop using SR, JK, D flip flops<br><br>
+Day: 55-> Dual Edge Triggered Flip Flop<br>
 <hr >
-Day: 54-> SISO Register<br><br>
-Day: 55-> SIPO Register<br><br>
-Day: 56-> PISO Register<br><br>
-Day: 57-> PIPO Register<br><br>
-Day: 58-> Linear Feedback Shift Register (LFSR)<br><br>
-Day: 59-> Universal Shift Register<br><br>
-Day: 60-> Barrel Shift Register<br>
+Day: 56-> Serial in Serial out (SISO) Register<br><br>
+Day: 57-> Serial in Parallel out (SIPO) Register<br><br>
+Day: 58-> Parallel in Serial out (PISO) Register<br><br>
+Day: 59-> Parallel in Parallel out (PIPO) Register<br><br>
+Day: 60-> Linear Feedback Shift Register (LFSR)<br><br>
+Day: 61-> Universal Shift Register<br><br>
+Day: 62-> Barrel Shift Register<br>
 <hr>
-Day: 61-> Mod-N Counter<br><br>
-Day: 62-> Synchronous Counter<br><br>
-Day: 63-> up/down Counter<br><br>
-Day: 64-> Ring Counter<br><br>
-Day: 65-> Johnson Couter<br><br>
-Day: 66-> Gray Counter<br>
+Day: 63-> Mod-N Counter<br><br>
+Day: 64-> Synchronous Counter<br><br>
+Day: 65-> Up/Down Counter<br><br>
+Day: 66-> Ring Counter<br><br>
+Day: 67-> Johnson Couter<br><br>
+Day: 68-> Gray Counter<br>
 <hr >
-Day: 67-> Clock Divider<br><br>
-Day: 68-> Frequency Divider {even}<br><br>
-Day: 69-> Frequency Divider {odd}<br><br>
-Day: 70-> Frequency Divider {decimal}<br>
+Day: 69-> Clock Divider<br><br>
+Day: 70-> Frequency Divider {even}<br><br>
+Day: 71-> Frequency Divider {odd}<br><br>
+Day: 72-> Frequency Divider {decimal}<br>
 <hr> 
-Day: 71-> One-HOT FSM(finite state machine)<br><br>
-Day: 72-> FSM Mealy_Overlapping<br><br>
-Day: 73-> FSM Mealy_Non-Overlapping<br><br>
-Day: 74-> FSM Moore_Overlapping<br><br>
-Day: 75-> FSM Mealy_Overlapping<br><br>
-Day: 76-> Two sequence detector using FSM<br>
+Day: 73-> One-HOT FSM(finite state machine)<br><br>
+Day: 74-> FSM Mealy_Overlapping<br><br>
+Day: 75-> FSM Mealy_Non-Overlapping<br><br>
+Day: 76-> FSM Moore_Overlapping<br><br>
+Day: 77-> FSM Mealy_Overlapping<br><br>
+Day: 78-> Two sequence detector using FSM<br><br>
+Day: 79-> Trafic Light Controller via FSM <br>
 <hr>
-Day: 77-> Trafic Light Controller via FSM <br><br>
-Day: 78-> Finding Factorial of a number<br><br>
-Day: 79-> Fibbonaci series<br><br>
-Day: 80-> Checking Armstrong Number <br><br>
-Day: 81-> Finding Pallindrome of a number<br><br>
-Day: 82-> Checking Prime or not<br>
+Day: 80-> Finding Factorial of a Number<br><br>
+Day: 81-> Fibbonaci Series<br><br>
+Day: 82-> Checking if Number is an Armstrong Number <br><br>
+Day: 83-> Finding Pallindrome of a Number<br><br>
+Day: 84-> Checking if Number is Prime<br>
 <hr>
-Day: 83-> Single Port RAM<br><br>
-Day: 84-> Dual Port RAM<br><br>
-Day: 85-> Single Port ROM<br><br>
-Day: 86-> Dual Port ROM<br>
+Day: 85-> Single Port RAM<br><br>
+Day: 86-> Dual Port RAM<br><br>
+Day: 87-> ROM [15*15]<br><br>
 <hr>
-Day: 87-> 16 bit ALU<br><br>
-Day: 88-> Round Robin Arbiter<br><br>
-Day: 89-> Fixed Priority Arbiter<br><br>
-Day: 90-> Greatest Common Divisor(GCD) via Behavioral Modelling<br><br>
-Day: 91-> Greatest Common Divisor(GCD) via FSM<br><br>
-Day: 92-> Bistable Multivibrator <br><br>
-Day: 93-> Astable multivibrator<br>
+Day: 88-> 16 bit ALU<br><br>
+Day: 89-> Round Robin Arbiter<br><br>
+Day: 90-> Fixed Priority Arbiter<br><br>
+Day: 91-> Greatest Common Divisor(GCD) via Behavioral Modelling<br><br>
+Day: 92-> Greatest Common Divisor(GCD) via FSM<br><br>
+Day: 93-> Bistable Multivibrator <br><br>
+Day: 94-> Astable multivibrator<br>
 <hr>
-Day: 94-> Running_LED<br><br>
-Day: 95-> I2C<br><br>
+Day: 95-> Running_LED<br><br>
 Day: 96-> SPI<br><br>
 Day: 97-> BIST for SW & LED<br><br>
 Day: 98-> LCD<br><br>
