@@ -47,15 +47,15 @@ Day: 39-> Binary to 2's Complement Converter<br><br>
 Day: 40-> Binary to BCD Converter<br><br>
 Day: 41-> BCD to Excess-3 code Converter<br><br>
 Day: 42-> BCD to 7-Segment Converter<br><br>
-Day: 43-> Booth Algorithm <br><br>
+Day: 43-> Booth's Multiplication Algorithm <br><br>
 Day: 44-> Vedic Multiplier [2×2]<br><br>
 Day: 45-> Vedic Multiplier [4×4] using [2×2]<br>
 <hr >
 Day: 46-> Asynchronous and Synchronous Reset<br><br>
-Day: 47-> SR Latch & Flip Flop<br><br>
-Day: 48-> JK Latch & Flip Flop<br><br>
-Day: 49-> D Latch & Flip Flop<br><br>
-Day: 50-> T Latch & Flip Flop<br><br>
+Day: 47-> SR Latch<br><br>
+Day: 48-> JK Flip Flop<br><br>
+Day: 49-> D Flip Flop<br><br>
+Day: 50-> T Flip Flop<br><br>
 Day: 51-> SR flip flop using JK, D, T flip flops<br><br>
 Day: 52-> JK flip flop using SR, D, T flip flops<br><br>
 Day: 53-> D flip flop using SR, JK, T flip flops<br><br>
