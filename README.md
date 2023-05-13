@@ -47,7 +47,7 @@ Day: 39-> Binary to 2's Complement Converter<br><br>
 Day: 40-> Binary to BCD Converter<br><br>
 Day: 41-> BCD to Excess-3 code Converter<br><br>
 Day: 42-> BCD to 7-Segment Converter<br><br>
-Day: 43-> Booth Algorithm <br><br>
+Day: 43-> Booth's Multiplication Algorithm <br><br>
 Day: 44-> Vedic Multiplier [2×2]<br><br>
 Day: 45-> Vedic Multiplier [4×4] using [2×2]<br>
 <hr >
