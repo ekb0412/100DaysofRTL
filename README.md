@@ -71,7 +71,7 @@ Day: 61-> Universal Shift Register<br><br>
 Day: 62-> Barrel Shift Register<br>
 <hr>
 Day: 63-> Mod-N Counter<br><br>
-Day: 64-> Synchronous Counter<br><br>
+Day: 64-> Sequence Generator or Counter<br><br>
 Day: 65-> Up/Down Counter<br><br>
 Day: 66-> Ring Counter<br><br>
 Day: 67-> Johnson Couter<br><br>
