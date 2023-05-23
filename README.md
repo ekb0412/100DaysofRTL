@@ -77,7 +77,7 @@ Day: 66-> Ring Counter<br><br>
 Day: 67-> Johnson Couter<br><br>
 Day: 68-> Gray Counter<br>
 <hr >
-Day: 69-> Clock Divider<br><br>
+Day: 69-> Clock Phasing<br><br>
 Day: 70-> Frequency Divider {even}<br><br>
 Day: 71-> Frequency Divider {odd}<br><br>
 Day: 72-> Frequency Divider {decimal}<br>
