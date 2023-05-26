@@ -90,23 +90,23 @@ Day: 77-> FSM Mealy_Overlapping<br><br>
 Day: 78-> Two sequence detector using FSM<br><br>
 Day: 79-> Trafic Light Controller via FSM <br>
 <hr>
-Day: 80-> Finding Factorial of a Number<br><br>
-Day: 81-> Fibbonaci Series<br><br>
-Day: 82-> Checking if Number is an Armstrong Number <br><br>
-Day: 83-> Finding Pallindrome of a Number<br><br>
-Day: 84-> Checking if Number is Prime<br>
+Day: 80-> 16 bit ALU<br><br>
+Day: 81-> Finding Factorial of a Number<br><br>
+Day: 82-> Fibbonaci Series<br><br>
+Day: 83-> Checking if Number is an Armstrong Number <br><br>
+Day: 84-> Finding Pallindrome of a Number<br><br>
+Day: 85-> Checking if Number is Prime<br>
 <hr>
-Day: 85-> Single Port RAM<br><br>
-Day: 86-> Dual Port RAM<br><br>
-Day: 87-> ROM [15*15]<br><br>
+Day: 86-> Single Port RAM<br><br>
+Day: 87-> Dual Port RAM<br><br>
+Day: 88-> ROM [15*15]<br><br>
 <hr>
-Day: 88-> 16 bit ALU<br><br>
 Day: 89-> Round Robin Arbiter<br><br>
 Day: 90-> Fixed Priority Arbiter<br><br>
 Day: 91-> Greatest Common Divisor(GCD) via Behavioral Modelling<br><br>
 Day: 92-> Greatest Common Divisor(GCD) via FSM<br><br>
-Day: 93-> Bistable Multivibrator <br><br>
-Day: 94-> Astable multivibrator<br>
+Day: 93-> Astable Multivibrator <br><br>
+Day: 94-> Bistable Multivibrator<br>
 <hr>
 Day: 95-> Running_LED<br><br>
 Day: 96-> SPI<br><br>
