@@ -109,9 +109,9 @@ Day: 93-> Astable Multivibrator <br><br>
 Day: 94-> Bistable Multivibrator<br>
 <hr>
 Day: 95-> Running_LED<br><br>
-Day: 96-> SPI<br><br>
+Day: 96-> PWM<br><br>
 Day: 97-> BIST for SW & LED<br><br>
 Day: 98-> LCD<br><br>
-Day: 99-> PWM<br><br>
+Day: 99-> SPI<br><br>
 Day: 100-> Vending Machine<br>
 </h4>
