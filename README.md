@@ -90,7 +90,7 @@ Day: 77-> FSM Mealy_Overlapping<br><br>
 Day: 78-> Two sequence detector using FSM<br><br>
 Day: 79-> Trafic Light Controller via FSM <br>
 <hr>
-Day: 80-> 16 bit ALU<br><br>
+Day: 80-> ALU<br><br>
 Day: 81-> Finding Factorial of a Number<br><br>
 Day: 82-> Fibbonaci Series<br><br>
 Day: 83-> Checking if Number is an Armstrong Number <br><br>
