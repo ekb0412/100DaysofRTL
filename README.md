@@ -90,7 +90,7 @@ Day: 77-> FSM Mealy_Overlapping<br><br>
 Day: 78-> Two sequence detector using FSM<br><br>
 Day: 79-> Trafic Light Controller via FSM <br>
 <hr>
-Day: 80-> 16 bit ALU<br><br>
+Day: 80-> Arithmetic-Logic Unit (ALU)<br><br>
 Day: 81-> Finding Factorial of a Number<br><br>
 Day: 82-> Fibbonaci Series<br><br>
 Day: 83-> Checking if Number is an Armstrong Number <br><br>
@@ -109,9 +109,9 @@ Day: 93-> Astable Multivibrator <br><br>
 Day: 94-> Bistable Multivibrator<br>
 <hr>
 Day: 95-> Running_LED<br><br>
-Day: 96-> SPI<br><br>
+Day: 96-> PWM<br><br>
 Day: 97-> BIST for SW & LED<br><br>
 Day: 98-> LCD<br><br>
-Day: 99-> PWM<br><br>
+Day: 99-> SPI<br><br>
 Day: 100-> Vending Machine<br>
 </h4>
