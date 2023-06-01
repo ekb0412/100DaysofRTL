@@ -68,7 +68,7 @@ Day: 58-> Parallel in Serial out (PISO) Register<br><br>
 Day: 59-> Parallel in Parallel out (PIPO) Register<br><br>
 Day: 60-> Linear Feedback Shift Register (LFSR)<br><br>
 Day: 61-> Universal Shift Register<br><br>
-Day: 62-> Barrel Shift Register<br>
+Day: 62-> Barrel Shifter<br>
 <hr>
 Day: 63-> Mod-N Counter<br><br>
 Day: 64-> Sequence Generator or Counter<br><br>
