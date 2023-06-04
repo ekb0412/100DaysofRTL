@@ -78,40 +78,40 @@ Day: 67-> Johnson Couter<br><br>
 Day: 68-> Gray Counter<br>
 <hr >
 Day: 69-> Clock Phasing<br><br>
-Day: 70-> Frequency Divider {even}<br><br>
-Day: 71-> Frequency Divider {odd}<br><br>
-Day: 72-> Frequency Divider {decimal}<br>
+Day: 70-> Clock Edge Detector<br><br>
+Day: 71-> Frequency Divider {even}<br><br>
+Day: 72-> Frequency Divider {odd}<br><br>
+Day: 73-> Frequency Divider {decimal}<br>
 <hr> 
-Day: 73-> One-HOT FSM(finite state machine)<br><br>
-Day: 74-> FSM Mealy_Overlapping<br><br>
-Day: 75-> FSM Mealy_Non-Overlapping<br><br>
-Day: 76-> FSM Moore_Overlapping<br><br>
-Day: 77-> FSM Mealy_Overlapping<br><br>
-Day: 78-> Two sequence detector using FSM<br><br>
-Day: 79-> Trafic Light Controller via FSM <br>
+Day: 74-> One-HOT FSM(finite state machine)<br><br>
+Day: 75-> FSM Mealy_Overlapping<br><br>
+Day: 76-> FSM Mealy_Non-Overlapping<br><br>
+Day: 77-> FSM Moore_Overlapping<br><br>
+Day: 78-> FSM Mealy_Overlapping<br><br>
+Day: 79-> Two sequence detector using FSM<br><br>
+Day: 80-> Trafic Light Controller via FSM <br>
 <hr>
-Day: 80-> Single Port RAM<br><br>
-Day: 81-> Dual Port RAM<br><br>
-Day: 82-> ROM [15*15]<br><br>
+Day: 81-> Single Port RAM<br><br>
+Day: 82-> Dual Port RAM<br><br>
+Day: 83-> ROM [15*15]<br>
 <hr>
-Day: 83-> Arithmetic Logic Unit (ALU)<br><br>
-Day: 84-> Finding Factorial of a Number<br><br>
-Day: 85-> Fibbonaci Series<br><br>
-Day: 86-> Checking if Number is an Armstrong Number <br><br>
-Day: 87-> Finding Pallindrome of a Number<br><br>
-Day: 88-> Checking if Number is Prime<br>
+Day: 84-> Arithmetic Logic Unit (ALU)<br><br>
+Day: 85-> Checking if Number is Even or Odd<br><br>
+Day: 86-> Checking if Number is Prime<br><br>
+Day: 87-> Checking if Number is a Pallindrome Number<br><br>
+Day: 88-> Checking if Number is an Armstrong Number <br><br>
+Day: 89-> Factorial of a Number<br><br>
+Day: 90-> Fibbonaci Series<br>
 <hr>
-Day: 89-> Round Robin Arbiter<br><br>
-Day: 90-> Fixed Priority Arbiter<br><br>
-Day: 91-> Greatest Common Divisor(GCD) via Behavioral Modelling<br><br>
-Day: 92-> Greatest Common Divisor(GCD) via FSM<br><br>
-Day: 93-> Astable Multivibrator <br><br>
-Day: 94-> Bistable Multivibrator<br>
+Day: 91-> Round Robin Arbiter<br><br>
+Day: 92-> Fixed Priority Arbiter<br><br>
+Day: 93-> Greatest Common Divisor(GCD) via Behavioral Modelling<br><br>
+Day: 94-> Astable Multivibrator <br><br>
+Day: 95-> Bistable Multivibrator<br><br>
+Day: 96-> Running_LED<br>
 <hr>
-Day: 95-> Running_LED<br><br>
-Day: 96-> PWM<br><br>
-Day: 97-> BIST for SW & LED<br><br>
-Day: 98-> LCD<br><br>
+Day: 97-> PWM<br><br>
+Day: 98-> Railway Crossing <br><br>
 Day: 99-> SPI<br><br>
 Day: 100-> Vending Machine<br>
 </h4>
