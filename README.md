@@ -87,7 +87,7 @@ Day: 74-> One-HOT FSM(finite state machine)<br><br>
 Day: 75-> FSM Mealy_Overlapping<br><br>
 Day: 76-> FSM Mealy_Non-Overlapping<br><br>
 Day: 77-> FSM Moore_Overlapping<br><br>
-Day: 78-> FSM Mealy_Overlapping<br><br>
+Day: 78-> FSM Moore_Non-Overlapping<br><br>
 Day: 79-> Two sequence detector using FSM<br><br>
 Day: 80-> Trafic Light Controller via FSM <br>
 <hr>
