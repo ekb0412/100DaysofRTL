@@ -89,29 +89,28 @@ Day: 76-> FSM Mealy_Non-Overlapping<br><br>
 Day: 77-> FSM Moore_Overlapping<br><br>
 Day: 78-> FSM Moore_Non-Overlapping<br><br>
 Day: 79-> Two sequence detector using FSM<br><br>
-Day: 80-> Trafic Light Controller via FSM <br>
+Day: 80-> Serial Adder via FSM <br><br>
+Day: 81-> Trafic Light Controller via FSM <br><br>
+Day: 82-> Railway Crossing Controller via FSM<br>
 <hr>
-Day: 81-> Single Port RAM<br><br>
-Day: 82-> Dual Port RAM<br><br>
-Day: 83-> ROM [15*15]<br>
+Day: 83-> Single Port RAM<br><br>
+Day: 84-> Dual Port RAM<br><br>
+Day: 85-> ROM [15*15]<br>
 <hr>
-Day: 84-> Arithmetic Logic Unit (ALU)<br><br>
-Day: 85-> Checking if Number is Even or Odd<br><br>
-Day: 86-> Checking if Number is Prime<br><br>
-Day: 87-> Checking if Number is a Pallindrome Number<br><br>
-Day: 88-> Checking if Number is an Armstrong Number <br><br>
-Day: 89-> Factorial of a Number<br><br>
-Day: 90-> Fibbonaci Series<br>
+Day: 86-> Arithmetic Logic Unit (ALU)<br><br>
+Day: 87-> Checking if Number is an Even or Odd Number<br><br>
+Day: 88-> Checking if Number is a Prime Number <br><br>
+Day: 89-> Checking if Number is a Pallindrome Number<br><br>
+Day: 90-> Checking if Number is an Armstrong Number <br><br>
+Day: 91-> Factorial of a Number<br><br>
+Day: 92-> Fibbonaci Series<br>
 <hr>
-Day: 91-> Round Robin Arbiter<br><br>
-Day: 92-> Fixed Priority Arbiter<br><br>
-Day: 93-> Greatest Common Divisor(GCD) via Behavioral Modelling<br><br>
-Day: 94-> Astable Multivibrator <br><br>
-Day: 95-> Bistable Multivibrator<br><br>
-Day: 96-> Running_LED<br>
-<hr>
-Day: 97-> PWM<br><br>
-Day: 98-> Railway Crossing <br><br>
-Day: 99-> SPI<br><br>
-Day: 100-> Vending Machine<br>
+Day: 93-> Synchronous FIFO(First In First Out) <br><br>
+Day: 94-> Running LED<br><br>
+Day: 95-> PWM (Pulse Width Modulation)<br><br>
+Day: 96-> Vending Machine<br><br>
+Day: 97-> Astable Multivibrator <br><br>
+Day: 98-> Bistable Multivibrator<br><br>
+Day: 99-> SPI Concept <br><br>
+Day: 100-> SPI Verilog Code<br>
 </h4>
