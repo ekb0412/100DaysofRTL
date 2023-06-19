@@ -89,23 +89,23 @@ Day: 76-> FSM Mealy_Non-Overlapping<br><br>
 Day: 77-> FSM Moore_Overlapping<br><br>
 Day: 78-> FSM Moore_Non-Overlapping<br><br>
 Day: 79-> Two sequence detector using FSM<br><br>
-Day: 80-> Serial Adder via FSM <br><br>
-Day: 81-> Trafic Light Controller via FSM <br><br>
-Day: 82-> Railway Crossing Controller via FSM<br>
+Day: 80-> Trafic Light Controller via FSM <br><br>
+Day: 81-> Railway Crossing Controller via FSM<br>
 <hr>
-Day: 83-> Single Port RAM<br><br>
-Day: 84-> Dual Port RAM<br><br>
-Day: 85-> ROM [15*15]<br>
+Day: 82-> Single Port RAM<br><br>
+Day: 83-> Dual Port RAM<br><br>
+Day: 84-> ROM [15*15]<br>
 <hr>
-Day: 86-> Arithmetic Logic Unit (ALU)<br><br>
-Day: 87-> Checking if Number is an Even or Odd Number<br><br>
-Day: 88-> Checking if Number is a Prime Number <br><br>
-Day: 89-> Checking if Number is a Pallindrome Number<br><br>
-Day: 90-> Checking if Number is an Armstrong Number <br><br>
-Day: 91-> Factorial of a Number<br><br>
-Day: 92-> Fibbonaci Series<br>
+Day: 85-> Arithmetic Logic Unit (ALU)<br><br>
+Day: 86-> Checking if Number is an Even or Odd Number<br><br>
+Day: 87-> Checking if Number is a Prime Number <br><br>
+Day: 88-> Checking if Number is a Pallindrome Number<br><br>
+Day: 89-> Checking if Number is an Armstrong Number <br><br>
+Day: 90-> Factorial of a Number<br><br>
+Day: 91-> Fibbonaci Series<br>
 <hr>
-Day: 93-> Synchronous FIFO(First In First Out) <br><br>
+Day: 92-> Synchronous FIFO(First In First Out) <br><br>
+Day: 93-> Synchronous LIFO(Last In First Out) <br><br>
 Day: 94-> Running LED<br><br>
 Day: 95-> PWM (Pulse Width Modulation)<br><br>
 Day: 96-> Vending Machine<br><br>
