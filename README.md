@@ -100,7 +100,7 @@ Day: 85-> Checking if Number is a Prime Number <br><br>
 Day: 86-> Checking if Number is a Pallindrome Number<br><br>
 Day: 87-> Checking if Number is an Armstrong Number <br><br>
 Day: 88-> Factorial of a Number<br><br>
-Day: 89-> Fibbonaci Series<br>
+Day: 89-> Square Root and Cube Root of a Number<br>
 <hr>
 Day: 90-> Trafic Light Controller via FSM <br><br>
 Day: 91-> Railway Crossing Controller via FSM<br><br>
