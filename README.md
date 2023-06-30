@@ -88,7 +88,7 @@ Day: 75-> FSM Mealy_Overlapping<br><br>
 Day: 76-> FSM Mealy_Non-Overlapping<br><br>
 Day: 77-> FSM Moore_Overlapping<br><br>
 Day: 78-> FSM Moore_Non-Overlapping<br><br>
-Day: 79-> Two sequence detector using FSM<br><br>
+Day: 79-> Two sequence detector using FSM<br>
 <hr>
 Day: 80-> Single Port RAM<br><br>
 Day: 81-> Dual Port RAM<br><br>
@@ -103,7 +103,7 @@ Day: 88-> Factorial of a Number<br><br>
 Day: 89-> Square Root and Cube Root of a Number<br>
 <hr>
 Day: 90-> Trafic Light Controller via FSM <br><br>
-Day: 91-> Railway Crossing Controller via FSM<br><br>
+Day: 91-> Printing Star and Number Patterns <br><br>
 Day: 92-> Synchronous FIFO(First In First Out) <br><br>
 Day: 93-> Synchronous LIFO(Last In First Out) <br><br>
 Day: 94-> Running LED<br><br>
