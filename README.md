@@ -104,9 +104,9 @@ Day: 89-> Square Root and Cube Root of a Number<br>
 <hr>
 Day: 90-> Trafic Light Controller via FSM <br><br>
 Day: 91-> Printing Star and Number Patterns <br><br>
-Day: 92-> Synchronous FIFO(First In First Out) <br><br>
-Day: 93-> Synchronous LIFO(Last In First Out) <br><br>
-Day: 94-> Running LED<br><br>
+Day: 92-> Highest Common Factor (HCF) <br><br>
+Day: 93-> Synchronous FIFO(First In First Out) <br><br>
+Day: 94-> Synchronous LIFO(Last In First Out) <br><br>
 Day: 95-> PWM (Pulse Width Modulation)<br><br>
 Day: 96-> Vending Machine<br><br>
 Day: 97-> Monostable Multivibrator <br><br>
