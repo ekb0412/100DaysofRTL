@@ -109,7 +109,7 @@ Day: 93-> Synchronous FIFO(First In First Out) <br><br>
 Day: 94-> Synchronous LIFO(Last In First Out) <br><br>
 Day: 95-> PWM (Pulse Width Modulation)<br><br>
 Day: 96-> Vending Machine<br><br>
-Day: 97-> Monostable Multivibrator <br><br>
+Day: 97-> Car Parking Management System <br><br>
 Day: 98-> Bistable Multivibrator<br><br>
 Day: 99-> SPI Concept <br><br>
 Day: 100-> SPI Verilog Code<br>
