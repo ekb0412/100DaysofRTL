@@ -111,6 +111,6 @@ Day: 95-> PWM (Pulse Width Modulation)<br><br>
 Day: 96-> Vending Machine<br><br>
 Day: 97-> Car Parking Management System <br><br>
 Day: 98-> Sine Wave Generator<br><br>
-Day: 99-> SPI Concept <br><br>
-Day: 100-> SPI Verilog Code<br>
+Day: 99-> Error Detection and Correction using Hamming Code Technique <br><br>
+Day: 100-> Serial Port Interface (SPI) Code<br>
 </h4>
